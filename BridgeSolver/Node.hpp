@@ -2,8 +2,8 @@
 //  Node.hpp
 //  BridgeSolver
 //
-//  Created by Eric Paul on 6/14/16.
-//  Copyright © 2016 Eric Paul. All rights reserved.
+//  Created by Eric on 6/14/16.
+//  Copyright © 2016 Eric. All rights reserved.
 //
 
 #ifndef Node_hpp
