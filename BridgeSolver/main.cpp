@@ -1,10 +1,6 @@
 //
 //  main.cpp
 //  BridgeSolver
-//
-//  Created by Eric on 6/14/16.
-//  Copyright © 2016 Eric. All rights reserved.
-//
 
 #include <iostream>
 #include "Node.hpp"
