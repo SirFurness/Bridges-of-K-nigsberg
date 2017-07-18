@@ -1,10 +1,7 @@
 //
 //  Group.hpp
 //  BridgeSolver
-//
-//  Created by Eric on 6/14/16.
-//  Copyright © 2016 Eric. All rights reserved.
-//
+
 
 #ifndef Group_hpp
 #define Group_hpp
